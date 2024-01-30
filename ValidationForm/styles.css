@@ -1,0 +1,47 @@
+body{
+    background: aliceblue;
+}
+.email-pass{
+    display: flex;
+}
+
+.hide-btn{
+    background: #2c31dd;
+    color: aliceblue;
+}
+
+.alpha-phone{
+    display: flex;
+}
+.gender-dob{
+    display: flex;
+}
+/* .gender-child{
+    display: inline;
+} */
+.url-currency{
+    display: flex;
+}
+.textarea-checkbox{
+    display: flex;
+}
+.image-color{
+    display: flex;
+}
+.child{
+    width: 100%;
+    margin: 1%;
+}
+.input{
+    width: 100%;
+}
+
+.submit-btn{
+    width: 50%;
+    margin-left: 25%;
+    background-color: rgb(70, 172, 70);
+}
+
+.span{
+    color: red;
+}
